@@ -1,6 +1,6 @@
 #' ---
 #' title: "Forecasting: Exercise 4"
-#' author: Alexey Shiklomanov, ???
+#' author: Alexey Shiklomanov, Betsy Cowdery
 #' ---
 
 ### Prairie Phenology Workflow
